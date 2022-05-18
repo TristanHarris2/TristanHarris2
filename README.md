@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @TristanHarris2
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Bootstrap, React
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on front-end/back-end projects
 - 📫 How to reach me htristan893@gmail.com
 
