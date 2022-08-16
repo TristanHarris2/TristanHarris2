@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @TristanHarris2
-- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on front-end/back-end projects
 - 📫 How to reach me htristan893@gmail.com
 
